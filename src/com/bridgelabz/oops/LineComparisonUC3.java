@@ -2,8 +2,8 @@ package com.bridgelabz.oops;
 
 import java.util.Scanner;
 
-public class LineComparisonUC2 {
-    static void checkEquality() {
+public class LineComparisonUC3 {
+    static void compareLine() {
 
         int x1, x2, y1, y2;
         Scanner sc = new Scanner(System.in);
@@ -23,17 +23,18 @@ public class LineComparisonUC2 {
         y2 = sc.nextInt();
 
         double length2 = Math.sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1));
-        System.out.println("Length of Line2: " + length2);
+        System.out.println("Length of Line1: " + length2);
 
         if (length1 == length2)
             System.out.println("Line1 and Line2 are equal");
+        else if (length1 > length2)
+            System.out.println("Length of line1 is greater than Length of line2");
         else
-            System.out.println("Line1 and Line2 are not equal");
+            System.out.println("Length of line2 is greater than Length of line1");
     }
 
-
     public static void main(String[] args) {
-        checkEquality();
+        compareLine();
     }
 }
 
