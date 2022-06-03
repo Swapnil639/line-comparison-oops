@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ba62125-1e5f-4108-b134-d931ebdc1713" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LineComparisonOOPs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LineComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/LineComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/LineComparisonUC1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/LineComparisonUC2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/LineComparisonUC3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/oops/LineComparisonUC4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LineComparison.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2A4oierf1ajY6LsuWSgcFbXQRsI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,17 +40,73 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="LineComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LineComparison" />
+  <component name="RunManager" selected="Application.LineComparisonUC4">
+    <configuration name="LineComparisonUC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LineComparisonUC2" />
       <module name="LineComparisonOOPs" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineComparisonUC3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oops.LineComparisonUC3" />
+      <module name="LineComparisonOOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LineComparisonUC4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oops.LineComparisonUC4" />
+      <module name="LineComparisonOOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bridgelabz.oops.LineComparisonUC1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oops.LineComparisonUC1" />
+      <module name="LineComparisonOOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.bridgelabz.oops.LineComparisonUC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.oops.LineComparisonUC2" />
+      <module name="LineComparisonOOPs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LineComparison" />
+        <item itemvalue="Application.LineComparisonUC4" />
+        <item itemvalue="Application.LineComparisonUC3" />
+        <item itemvalue="Application.com.bridgelabz.oops.LineComparisonUC2" />
+        <item itemvalue="Application.com.bridgelabz.oops.LineComparisonUC1" />
+        <item itemvalue="Application.LineComparisonUC2" />
       </list>
     </recent_temporary>
   </component>

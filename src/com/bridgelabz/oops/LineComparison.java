@@ -1,5 +1,6 @@
-public class LineComparison {
+package com.bridgelabz.oops;
 
+public class LineComparison {
     static void welcomeMessage() {
         System.out.println("Welcome to Line Comparison Computation");
     }
@@ -8,3 +9,4 @@ public class LineComparison {
         welcomeMessage();
     }
 }
+
